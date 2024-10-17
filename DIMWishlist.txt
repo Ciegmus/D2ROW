@@ -1,25 +1,39 @@
-title:DIMWishlist
-Version:0.04
+title:GodRoll Weapons [RoW]
+Version:0.01 17.10.24
 
-// Speleologist - GPVE (god-pve)
-//notes: Абсолют: Стабильность - Мод: Запасной магазин tags:god-pve
-dimwishlist:item=412251536&perks=1840239774,2420895100,1164602481,2896748467,253121539
-dimwishlist:item=412251536&perks=1840239774,2420895100,1164602481,2675184851,253121539
+// VS Gravitic Arrest - GPVE (god-pve)
+//notes: Абсолют - Время заряда оружия, Мод - Баллистика/Запасной магазин tags:god-pve
+dimwishlist:item=93061497&perks=1482024992,2680121939,3523296417,2396489472
+dimwishlist:item=93061497&perks=1482024992,2680121939,3523296417,598607952
+dimwishlist:item=93061497&perks=1482024992,2680121939,1906147653,2396489472
+dimwishlist:item=93061497&perks=1482024992,2680121939,1906147653,598607952
+dimwishlist:item=93061497&perks=1840239774,2680121939,3523296417,2396489472
+dimwishlist:item=93061497&perks=1840239774,2680121939,3523296417,598607952
+dimwishlist:item=93061497&perks=1840239774,2680121939,1906147653,2396489472
+dimwishlist:item=93061497&perks=1840239774,2680121939,1906147653,598607952
+dimwishlist:item=93061497&perks=3250034553,2680121939,3523296417,2396489472
+dimwishlist:item=93061497&perks=3250034553,2680121939,3523296417,598607952
+dimwishlist:item=93061497&perks=3250034553,2680121939,1906147653,2396489472
+dimwishlist:item=93061497&perks=3250034553,2680121939,1906147653,598607952
 
 
-// Chronophage -  GPVE (god-pve)
-//notes: Абсолют: Скорость перезарядки - Мод: Запасной магазин tags:god-pve
-dimwishlist:item=1886840007&perks=1840239774,2749775325,2541826827,1926441324,253121539
+// VS Chill Inhibitor - GPVE (god-pve)
+//notes: Абсолют - Удобство, Мод - Запасной магазин tags:god-pve
+dimwishlist:item=1762785662&perks=3525010810,3301904089,3987942396,3078487919
+dimwishlist:item=1762785662&perks=3525010810,3301904089,3987942396,3194351027
+dimwishlist:item=1762785662&perks=3525010810,3301904089,3987942396,3708227201
+dimwishlist:item=1762785662&perks=3525010810,3301904089,3751912585,3078487919
+dimwishlist:item=1762785662&perks=3525010810,3301904089,3751912585,3194351027
+dimwishlist:item=1762785662&perks=3525010810,3301904089,3751912585,3708227201
 
 
-// Martyr's Retribution - GPVE (god-pve)
-//notes: Абсолют: Радиус взрыва - Мод: Кобура быстрого доступа tags:god-pve
-dimwishlist:item=2584830733&perks=3525010810,2822142346,4223976499,2675184851,2838996248
-dimwishlist:item=2584830733&perks=3525010810,2822142346,1906147653,2675184851,2838996248
+// VS Velocity Baton - GPVE (god-pve)
+//notes: Абсолют - Скорость перезарядки, Мод - Тактическое искусство/ tags:god-pve
+dimwishlist:item=1762785663&perks=3525010810,2822142346,3523296417,243981275
 
 
-// Choir of One - GPVE (god-pve)
-//notes: tags:god-pve
-dimwishlist:item=3698448090&perks=1840239774,3230963543,619537267,1067908860,1931951168
-dimwishlist:item=3698448090&perks=1840239774,3230963543,619537267,1067908860,1931951170
+// VS Pyroelectric Propellant (god-pve)
+//notes: Абсолют - Скорость перезарядки, Мод - Тактическое искусство/Запасной магазин tags:god-pve
+dimwishlist:item=4232480042&perks=1482024992,3230963543,243981275,3966416502
+
 
