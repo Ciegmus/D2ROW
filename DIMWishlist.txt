@@ -1,39 +1,91 @@
 title:GodRoll Weapons [RoW]
-Version:0.01 17.10.24
+Version:0.15 11.12.24
 
 // VS Gravitic Arrest - GPVE (god-pve)
-//notes: Абсолют - Время заряда оружия, Мод - Баллистика/Запасной магазин tags:god-pve
-dimwishlist:item=93061497&perks=1482024992,2680121939,3523296417,2396489472
-dimwishlist:item=93061497&perks=1482024992,2680121939,3523296417,598607952
-dimwishlist:item=93061497&perks=1482024992,2680121939,1906147653,2396489472
-dimwishlist:item=93061497&perks=1482024992,2680121939,1906147653,598607952
-dimwishlist:item=93061497&perks=1840239774,2680121939,3523296417,2396489472
-dimwishlist:item=93061497&perks=1840239774,2680121939,3523296417,598607952
-dimwishlist:item=93061497&perks=1840239774,2680121939,1906147653,2396489472
-dimwishlist:item=93061497&perks=1840239774,2680121939,1906147653,598607952
-dimwishlist:item=93061497&perks=3250034553,2680121939,3523296417,2396489472
-dimwishlist:item=93061497&perks=3250034553,2680121939,3523296417,598607952
-dimwishlist:item=93061497&perks=3250034553,2680121939,1906147653,2396489472
-dimwishlist:item=93061497&perks=3250034553,2680121939,1906147653,598607952
+//notes: Абсолют - Время заряда, Мод - Баллистика tags:god-pve
+dimwishlist:item=93061497&perks=839105230,2680121939,776531651,1134488199
+
+
+// VS Gravitic Arrest - GPVP (god-pvp)
+//notes: Абсолют - Время заряда, Мод - Баллистика tags:god-pvp
+dimwishlist:item=93061497&perks=839105230,689005463,1645158859,1194056669
+
+
+// Crimil's Dagger - GPVP (god-pvp)
+//notes: Абсолют - Скорость перезарядки, Мод - Баллистика tags:god-pvp
+dimwishlist:item=198854575&perks=3250034553,3142289711,2039302152,555281244
+dimwishlist:item=198854575&perks=3250034553,3142289711,2039302152,1015611457
+dimwishlist:item=198854575&perks=3250034553,3142289711,2039302152,3038247973
+dimwishlist:item=198854575&perks=3250034553,3142289711,588594999,555281244
+dimwishlist:item=198854575&perks=3250034553,3142289711,588594999,1015611457
+dimwishlist:item=198854575&perks=3250034553,3142289711,588594999,3038247973
+
+
+// Tinasha's Mastery - GPVE (god-pve)
+//notes: Абсолют - Скорость перезарядки, Мод - Запасной магазин tags:god-pve
+dimwishlist:item=480368036&perks=981914802,2420895100,1421772400,2978966579
+
+
+// Anonymous Autumn - GPVE (god-pve)
+//notes: Абсолют - Скорость перезарядки, Мод - Запасной магазин tags:god-pve
+dimwishlist:item=1051949956&perks=1482024992,3230963543,3523296417,2173046394
+
+
+// Anonymous Autumn - GPVP (god-pvp)
+//notes: Абсолют - Дальность стрельбы, Мод - Запасной магазин tags:god-pvp
+dimwishlist:item=1051949956&perks=3250034553,1885400500,2387244414,1015611457
+
+
+// Scintillation (Adept) - GPVE (god-pve)
+//notes: Абсолют - Время заряда, Мод - Запас патронов tags:god-pve
+dimwishlist:item=1492522228&perks=839105230,2680121939,3418782618,3078487919
+dimwishlist:item=1492522228&perks=839105230,2680121939,968510818,3078487919
+dimwishlist:item=1492522228&perks=839105230,2680121939,3300816228,3078487919
 
 
 // VS Chill Inhibitor - GPVE (god-pve)
 //notes: Абсолют - Удобство, Мод - Запасной магазин tags:god-pve
+dimwishlist:item=1762785662&perks=1478423395,3301904089,3987942396,3078487919
+dimwishlist:item=1762785662&perks=1478423395,3301904089,3751912585,3078487919
 dimwishlist:item=1762785662&perks=3525010810,3301904089,3987942396,3078487919
-dimwishlist:item=1762785662&perks=3525010810,3301904089,3987942396,3194351027
-dimwishlist:item=1762785662&perks=3525010810,3301904089,3987942396,3708227201
 dimwishlist:item=1762785662&perks=3525010810,3301904089,3751912585,3078487919
-dimwishlist:item=1762785662&perks=3525010810,3301904089,3751912585,3194351027
-dimwishlist:item=1762785662&perks=3525010810,3301904089,3751912585,3708227201
 
 
 // VS Velocity Baton - GPVE (god-pve)
-//notes: Абсолют - Скорость перезарядки, Мод - Тактическое искусство/ tags:god-pve
+//notes: Абсолют - Скорость снаряда, Мод - Тактическое искусство tags:god-pve
 dimwishlist:item=1762785663&perks=3525010810,2822142346,3523296417,243981275
 
 
-// VS Pyroelectric Propellant (god-pve)
-//notes: Абсолют - Скорость перезарядки, Мод - Тактическое искусство/Запасной магазин tags:god-pve
+// Wicked Sister - GPVE (god-pve)
+//notes: Абсолют - Скорость снаряда, Мод - Запас патронов tags:god-pve
+dimwishlist:item=2039776723&perks=1478423395,3301904089,3987942396,3078487919
+
+
+// Scintillation - GPVE (god-pve)
+//notes: Абсолют - Время заряда, Мод - Запас патронов tags:god-pve
+dimwishlist:item=2591257541&perks=839105230,2680121939,3418782618,3078487919
+dimwishlist:item=2591257541&perks=839105230,2680121939,968510818,3078487919
+dimwishlist:item=2591257541&perks=839105230,2680121939,3300816228,3078487919
+
+
+// Bitter/Sweet - GPVE (god-pve)
+//notes: Абсолют - Скорость снаряда, Мод - Запас патронов tags:god-pve
+dimwishlist:item=2599338625&perks=1478423395,3301904089,3987942396,3078487919
+
+
+// Gridskipper - GPVE (god-pve)
+//notes: Абсолют - Дальность стрельбы, Мод - Запасной магазин tags:god-pve
+dimwishlist:item=3433930495&perks=839105230,1885400500,776531651,2048641572
+dimwishlist:item=3433930495&perks=839105230,1885400500,776531651,4104185692
+dimwishlist:item=3433930495&perks=839105230,1885400500,3523296417,2048641572
+dimwishlist:item=3433930495&perks=839105230,1885400500,3523296417,4104185692
+
+
+// VS Pyroelectric Propellant - GPVE (god-pve)
+//notes: Абсолют - Скорость перезарядки, Мод - Запасной магазин tags:god-pve
 dimwishlist:item=4232480042&perks=1482024992,3230963543,243981275,3966416502
 
 
+// VS Pyroelectric Propellant - GPVP (god-pvp)
+//notes: Абсолют - Дальность стрельбы, Мод - Запасной магазин tags:god-pvp
+dimwishlist:item=4232480042&perks=839105230,1885400500,2450788523,1015611457
