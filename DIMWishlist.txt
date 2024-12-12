@@ -1,5 +1,5 @@
 title:GodRoll Weapons [RoW]
-Version:0.15 11.12.24
+Version:0.19 от 12.12.24
 
 // VS Gravitic Arrest - GPVE (god-pve)
 //notes: Абсолют - Время заряда, Мод - Баллистика tags:god-pve
@@ -24,6 +24,12 @@ dimwishlist:item=198854575&perks=3250034553,3142289711,588594999,3038247973
 // Tinasha's Mastery - GPVE (god-pve)
 //notes: Абсолют - Скорость перезарядки, Мод - Запасной магазин tags:god-pve
 dimwishlist:item=480368036&perks=981914802,2420895100,1421772400,2978966579
+
+
+// Noxious Vetiver - GPVE (god-pve)
+//notes: Абсолют - Скорость перезарядки, Мод - Тактическое искусство tags:god-pve
+dimwishlist:item=825495813&perks=1482024992,3230963543,243981275,3966416502
+dimwishlist:item=825495813&perks=1482024992,3230963543,691659142,3966416502
 
 
 // Anonymous Autumn - GPVE (god-pve)
@@ -79,6 +85,14 @@ dimwishlist:item=3433930495&perks=839105230,1885400500,776531651,2048641572
 dimwishlist:item=3433930495&perks=839105230,1885400500,776531651,4104185692
 dimwishlist:item=3433930495&perks=839105230,1885400500,3523296417,2048641572
 dimwishlist:item=3433930495&perks=839105230,1885400500,3523296417,4104185692
+
+
+// Mistral Lift - GPVE (god-pve)
+//notes: Абсолют - Время заряда, Мод - Запас патронов tags:god-pve
+dimwishlist:item=3483485727&perks=839105230,2680121939,3987942396,3078487919
+dimwishlist:item=3483485727&perks=839105230,2680121939,3987942396,555281244
+dimwishlist:item=3483485727&perks=839105230,2680121939,1134488199,3078487919
+dimwishlist:item=3483485727&perks=839105230,2680121939,1134488199,555281244
 
 
 // VS Pyroelectric Propellant - GPVE (god-pve)
