@@ -1117,7 +1117,8 @@ dimwishlist:item=2297554989&perks=839105230,1687452232,3643424744,1546637391
 
 // Eighty-Six - GPVE (god-pve)
 //notes: Абсолют: Урон. Мод: Запасной магазин. Исходная особенность: Наследие Бреев tags:god-pve
-dimwishlist:item=2344383760&perks=436053704,52780822,2590710093,243981275
+dimwishlist:item=2344383760&perks=436053704,52780822,923806249,243981275
+dimwishlist:item=2344383760&perks=436053704,52780822,2244851822,243981275
 
 
 // Reghusk's Pledge - GPVE (god-pve)
