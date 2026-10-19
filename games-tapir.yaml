@@ -1,0 +1,18 @@
+payload:
+  # Destiny 2
+  - PROCESS-NAME-REGEX,(?i).*destiny.*
+
+  # Wardogs
+  - PROCESS-NAME-REGEX,(?i).*wardogs.*
+
+  # AION 2
+  - PROCESS-NAME-REGEX,(?i).*AION2.*
+  - DOMAIN-SUFFIX,nc.com
+  - DOMAIN-SUFFIX,appsflyer.com
+  - DOMAIN-SUFFIX,cope.es
+  - DOMAIN-SUFFIX,ncsoft.com
+  - DOMAIN-SUFFIX,plaync.com
+  - IP-CIDR,193.202.112.0/24,no-resolve
+
+  # Once Human
+  - DOMAIN-SUFFIX,easebar.com
