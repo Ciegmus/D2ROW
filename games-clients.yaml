@@ -1,0 +1,9 @@
+payload:
+  # Steam
+  - PROCESS-NAME-REGEX,(?i).*steam.*
+
+  # Epiс Games
+  - PROCESS-NAME-REGEX,(?i)^(EpicGamesLauncher|EpicWebHelper|UnrealCEFSubProcess|EpicOnlineServicesHelper)\.exe$
+  - DOMAIN-SUFFIX,epicgames.com
+  - DOMAIN-SUFFIX,epicgames.dev
+  - DOMAIN-SUFFIX,unrealengine.com
