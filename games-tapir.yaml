@@ -16,3 +16,8 @@ payload:
 
   # Once Human
   - DOMAIN-SUFFIX,easebar.com
+
+  # ROB RUN
+  - DOMAIN-SUFFIX,kefirgames.com
+  - DOMAIN-SUFFIX,kefir.games
+  - DOMAIN-SUFFIX,easyanticheat.net
